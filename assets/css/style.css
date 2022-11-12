@@ -198,4 +198,9 @@ img {
     background-color: var(--color-base);
     border-radius: 100px;
     font-size: 24px;
+} 
+
+.photos{
+    border-radius: 15px;
+
 }
